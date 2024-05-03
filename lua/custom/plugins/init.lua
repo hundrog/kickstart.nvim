@@ -3,8 +3,6 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-  'Raimondi/delimitMate',
-  { 'rose-pine/neovim', name = 'rose-pine' },
   'tpope/vim-surround',
   'tpope/vim-fugitive',
   'ervandew/supertab',
