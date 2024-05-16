@@ -3,7 +3,7 @@
 --
 -- See the kickstart.nvim README for more information
 return {
-  'tpope/vim-surround',
+  -- 'tpope/vim-surround',
   'tpope/vim-fugitive',
   'ervandew/supertab',
 }
